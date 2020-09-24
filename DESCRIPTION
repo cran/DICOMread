@@ -1,6 +1,6 @@
 Package: DICOMread
 Title: Reading and Saving DICOM Image Files
-Version: 0.0.0.1
+Version: 0.0.0.2
 Authors@R: 
 	person(given = "Shu",
            family = "Jiang",
@@ -15,8 +15,8 @@ RoxygenNote: 7.1.1
 Imports: matlabr
 Depends: R (>= 2.10)
 NeedsCompilation: no
-Packaged: 2020-08-26 13:52:59 UTC; shujiang
+Packaged: 2020-09-23 20:32:23 UTC; shujiang
 Author: Shu Jiang [aut, cre] (<https://orcid.org/0000-0003-1464-4838>)
 Maintainer: Shu Jiang <jiang.shu@wustl.edu>
 Repository: CRAN
-Date/Publication: 2020-09-01 08:20:16 UTC
+Date/Publication: 2020-09-24 06:30:03 UTC

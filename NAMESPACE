@@ -2,4 +2,3 @@
 
 export(avlb_fun)
 export(check_mat)
-export(form_mat_fun)
