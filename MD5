@@ -1,6 +1,8 @@
-99e0355833dc871544450025d5823dc4 *DESCRIPTION
-24a888dad7352458c01bdd4afde949f2 *NAMESPACE
+e38d76bac47948c8095bfe46f3dccb1e *DESCRIPTION
+a471b7cdca295a041b56fc05818d085b *NAMESPACE
 945e8d0f5c0ee57cfbba63e615f82e51 *R/check_mat.R
-f1c4243744a436aaed21775c8b61fbc6 *R/have_mat.R
-5aa1ab7be8bae1a8d7f6b3edb6847592 *man/avlb_fun.Rd
+56a1eedb310c8f7193a95a10e2011ec2 *R/have_mat.R
+daaed690cd6e19ee472c5a4f27c7f6cc *R/save_mat.R
+41fee866d7ab153d1dd5a12723e35ab0 *man/Avb_fun.Rd
 4ebe808af50dab832cc632fb99945ca7 *man/check_mat.Rd
+10b2d016935b1a8da0154855334617df *man/form_mat_fun.Rd

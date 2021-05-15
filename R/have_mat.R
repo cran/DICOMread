@@ -4,9 +4,9 @@
 #'
 #' @export
 #' @examples
-#' avlb_fun()
+#' Avb_fun()
 #'
-avlb_fun = function(){
+Avb_fun = function(){
   out = matlabr::have_matlab()
   return(out)
 }

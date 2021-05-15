@@ -1,6 +1,6 @@
 Package: DICOMread
 Title: Reading and Saving DICOM Image Files
-Version: 0.0.0.2
+Version: 0.0.0.3
 Authors@R: 
 	person(given = "Shu",
            family = "Jiang",
@@ -10,13 +10,12 @@ Authors@R:
 Description: This function provides an interface between 'Matlab' and 'R' in facilitating fast processing for reading and saving DICOM images.
 License: GPL-3
 Encoding: UTF-8
-LazyData: true
 RoxygenNote: 7.1.1
 Imports: matlabr
 Depends: R (>= 2.10)
 NeedsCompilation: no
-Packaged: 2020-09-23 20:32:23 UTC; shujiang
+Packaged: 2021-05-15 17:17:59 UTC; shujiang
 Author: Shu Jiang [aut, cre] (<https://orcid.org/0000-0003-1464-4838>)
 Maintainer: Shu Jiang <jiang.shu@wustl.edu>
 Repository: CRAN
-Date/Publication: 2020-09-24 06:30:03 UTC
+Date/Publication: 2021-05-15 17:30:02 UTC
